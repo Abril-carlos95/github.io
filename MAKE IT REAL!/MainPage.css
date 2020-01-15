@@ -1,0 +1,19 @@
+body {
+    background-image: url("Plaza_de_Bolivar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img {
+    border-style: solid;
+    border: 5px solid white;
+    border-radius: 50%;
+}
+
+.centered {
+    position: fixed;
+    font-family: 'Gayathri', sans-serif;
+    font-size:  1.5rem;
+    top: 70%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+}
